@@ -1,6 +1,8 @@
 
 <template>
   <span v-if="count > 0" class="badge">{{ count }}</span>
+  // Nuevo contador
+  <span v-if="count > 0" class="badge">{{ count }}</span>
 </template>
 
 <script>
