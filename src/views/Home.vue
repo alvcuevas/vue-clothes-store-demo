@@ -1,5 +1,6 @@
 <template>
   <div>
+    // Cambios nuevos en master
     <section class="wrapper">
       <h2>Featured Items</h2>
       <ul class="featured-item-list">
