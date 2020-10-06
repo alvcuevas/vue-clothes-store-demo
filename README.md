@@ -1,8 +1,8 @@
-## Clothes store demo built with Vue &amp; Vuex
+## Clothes store demo using Vue &amp; Vuex
 
 ### Resources
 
-- Vue 2.6
+- Vue: 2.6
 - Vue-router: 3.0
 - Vuex: 3.0
 
